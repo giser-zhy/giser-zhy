@@ -1,13 +1,11 @@
 ﻿### Hi👏👏👏👏
-my research focus on the climate and cryosphere change, extreme climate events and diaster induced by the cryosphere change.
+My research focuses on **climate and cryosphere change, extreme climate events, and cryosphere-related hazards** in High Mountain Asia (HMA).
 
-rencently, i am working:
-
-_glacier model: using the AI method to accumulate the calculative effective of ice-flow dynmicals, and construct the novel distuibuted enery-mass balance model.
-_extreme temperature events: the extreme temperature changes by elevation and quantify the effective for glacier change.
+Recently, I have been working on the following topics:
+- **Glacier modelling**: developing AI-accelerated approaches to improve the computational efficiency of ice-flow dynamics simulations, and constructing a novel distributed energy–mass balance model for glacier change assessment.
+- **Extreme temperature events**: investigating elevation-dependent changes in extreme temperature events and quantifying their impacts on glacier change.
 ![](image/pro.png)
-my study area is High Moutain Asia (HMA), as the following picture
-![](image/Layout2bians2.jpg)
+
 
 
 
